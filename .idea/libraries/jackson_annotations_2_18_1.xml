@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.18.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/java_ford/jackson-annotations-2.18.1.jar!/" />
+      <root url="file://$USER_HOME$/OneDrive/Desktop/java_ford" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/OneDrive/Desktop/java_ford" recursive="false" />
+  </library>
+</component>
